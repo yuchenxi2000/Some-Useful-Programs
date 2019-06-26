@@ -1,4 +1,6 @@
 #!/bin/bash
+# forked from 233boy's origin repository
+# （估摸着被和谐了
 
 red='\e[91m'
 green='\e[92m'
